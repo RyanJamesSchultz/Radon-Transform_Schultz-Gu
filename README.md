@@ -11,7 +11,8 @@ adapted or modified for a broad range of geophysical applications.
 
 For sample use see "example.m"
 
-References: Schultz, R., Gu, Y. J., 2012. Flexible Matlab implementation
+References: 
+            Schultz, R., Gu, Y. J., 2012. Flexible Matlab implementation
             of the Radon Transform.  Computers and Geosciences [In Preparation]
 
             An, Y., Gu, Y. J., Sacchi, M., 2007. Imaging mantle
