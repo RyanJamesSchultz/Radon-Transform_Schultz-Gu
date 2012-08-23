@@ -7,11 +7,13 @@ For sample use see "example.m"
 
 References: 
             
-            Schultz, R., Gu, Y. J., 2012. Flexible Matlab implementation
-            of the Radon Transform.  Computers and Geosciences [In Preparation]
+            Schultz, R., Gu, Y. J., 2012. 
+            Flexible Matlab implementation of the Radon Transform.  
+            Computers and Geosciences
+            [In Preparation]
 
-            An, Y., Gu, Y. J., Sacchi, M., 2007. Imaging mantle
-            discontinuities using least-squares Radon transform.
+            An, Y., Gu, Y. J., Sacchi, M., 2007. 
+            Imaging mantle discontinuities using least-squares Radon transform.
             Journal of Geophysical Research 112, B10303.
 
 As a stipulation for the use of these codes, in part or full, we request that our efforts are acknowledged with a proper citation of the previous two papers.
