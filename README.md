@@ -8,7 +8,7 @@ For sample use see "example.m"
 References: 
             
             Schultz, R., Gu, Y. J., 2012. 
-            Flexible Matlab implementation of the Radon Transform.  
+            Flexible, inversion-based Matlab implementation of the Radon transform.  
             Computers and Geosciences
             [In Preparation]
 
