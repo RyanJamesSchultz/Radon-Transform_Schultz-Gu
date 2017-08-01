@@ -8,13 +8,14 @@ For sample use see "example.m"
 References: 
             
             Schultz, R., Gu, Y. J., 2012. 
-            Flexible, inversion-based Matlab implementation of the Radon transform.  
-            Computers and Geosciences 52, 437-442
-            doi: 10.1016/j.cageo.2012.08.013
-
-            An, Y., Gu, Y. J., Sacchi, M., 2007. 
-            Imaging mantle discontinuities using least-squares Radon transform.
+            Flexible, inversion-based Matlab implementation of the Radon transform
+            Computers and Geosciences 52, 437-442.
+            doi: 10.1016/j.cageo.2012.08.013.
+            
+            An, Y., Gu, Y. J., Sacchi, M., 2007. 
+            Imaging mantle discontinuities using least-squares Radon transform
             Journal of Geophysical Research 112, B10303.
+            doi: 10.1029/2007JB005009.
 
 As a stipulation for the use of these codes, in part or full, we request that our efforts are acknowledged with a proper citation of the previous two papers.
 
